@@ -1,0 +1,19 @@
+/* Description: Primary style sheet for valleytownhall.com
+Author: Magaly Rodriguez */
+
+body {
+    background-color: #FACD8A; /* This is a shade of orange */
+}
+
+h1 {
+    color: #363636; 
+}
+
+h2{
+    font-style: italic;
+    border-bottom: 3px solid #EF9C00; /* adds a line below h2 */
+}
+
+ul {
+    list-style-type: square; /* changes the bullets to squares. */
+}
